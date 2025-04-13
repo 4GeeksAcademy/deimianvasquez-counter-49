@@ -9,3 +9,14 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.counter-numbers {
+    padding: 10px;
+}
+
+.counter-numbers>div {
+    border: 2px solid #302e2e;
+    font-size: 3rem;
+    font-weight: bold;
+    padding: 20px;
+    border-radius: 15px;
+}
